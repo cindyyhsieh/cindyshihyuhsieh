@@ -1,0 +1,1 @@
+This folder contains the updated website structure including slideshow support for media.html.
